@@ -8,3 +8,4 @@ But it keep asking pass for the first key.
 - Testing signed commits: failed
 - Testing signed commit after adding gpg key: failed
 - Testing signed commit after adding gpg key for tatxtion: failed
+- Testing after changing email in repo config
