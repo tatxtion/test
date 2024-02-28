@@ -7,4 +7,4 @@ But it keep asking pass for the first key.
 - Cannot identify ankur@tatxtion.tech. Trying after adding it to github.com
 - Testing signed commits: failed
 - Testing signed commit after adding gpg key: failed
-- Testing signed commit after adding gpg key for tatxtion:
+- Testing signed commit after adding gpg key for tatxtion: failed
